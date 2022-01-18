@@ -2,7 +2,7 @@
 <div>
 <b> Course </b>: IFT2035 - Introduction to Programming Language <br>
 <b> Professor </b>: Stefan Monnier  <br>
-<b> Language used:</b> Prolog <br> and LaTEX for report.
+<b> Language used:</b> Prolog and LaTEX for report <br>
 </div>
 
 # Description (Exceprt from upts.pdf)
@@ -17,5 +17,5 @@ Therefore, the syntax of the language does not distinguish the sub-language of t
  <img src="https://render.githubusercontent.com/render/math?math=e ::= c \: | \: x \: | \: \lambda x:e_1.e_2 \: |\:  e_1e_2 \: |\: \Pi x: e_1. e_2 \: |\: \text{let }\: x = e_1 = e_2 \: \text{ in } \: e_3 ">
 </center>
 
-<b> For more details regarding the specification of the language, please consult <code> upts.pdf </code> located in this repo.</b>
+<b> For more details regarding the specification of the language, please consult <code> upts.pdf</code> located in this repo.</b>
 
